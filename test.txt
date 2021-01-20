@@ -1,0 +1,1 @@
+Testiram ce oz kako dela upload na Jenkinsu
